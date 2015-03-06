@@ -1,0 +1,178 @@
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 3/5/2015 1:09:49 PM
+
+BeginCmp
+TimeStamp = /54F582A5;
+Reference = C1;
+ValeurCmp = 10uF/16V;
+IdModule  = c_tant_A;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F582B2;
+Reference = C2;
+ValeurCmp = 0.1uF;
+IdModule  = r_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F582CA;
+Reference = C3;
+ValeurCmp = 0.1uF;
+IdModule  = r_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F582D0;
+Reference = C4;
+ValeurCmp = 0.1uF;
+IdModule  = r_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F582D6;
+Reference = C5;
+ValeurCmp = 0.1uF;
+IdModule  = r_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F58E3A;
+Reference = C6;
+ValeurCmp = 0.1uF;
+IdModule  = r_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F58E34;
+Reference = C7;
+ValeurCmp = 0.1uF;
+IdModule  = r_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F58A3D;
+Reference = C8;
+ValeurCmp = 1uF/16V;
+IdModule  = c_tant_A;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F581F6;
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = LED-1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F59556;
+Reference = D2;
+ValeurCmp = PWR_LED;
+IdModule  = LED-1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F54C06;
+Reference = IC1;
+ValeurCmp = PIC18F8722;
+IdModule  = microchip-2-TQFP80;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F59DF3;
+Reference = P1;
+ValeurCmp = PGM_CONN;
+IdModule  = SIL-5;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F5A961;
+Reference = P2;
+ValeurCmp = CONN_16;
+IdModule  = SIL-16;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F5A230;
+Reference = P3;
+ValeurCmp = CONN_5;
+IdModule  = SIL-5;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F5A96E;
+Reference = P4;
+ValeurCmp = CONN_16;
+IdModule  = SIL-16;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F5A974;
+Reference = P5;
+ValeurCmp = CONN_16;
+IdModule  = SIL-16;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F5A97A;
+Reference = P6;
+ValeurCmp = CONN_16;
+IdModule  = SIL-16;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F807CB;
+Reference = P7;
+ValeurCmp = PWR_CON;
+IdModule  = SIL-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F58E22;
+Reference = P9;
+ValeurCmp = PWR_CON;
+IdModule  = mors_2p;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F58E15;
+Reference = P12;
+ValeurCmp = PWR_CON;
+IdModule  = mors_2p;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F57F62;
+Reference = R1;
+ValeurCmp = 10K;
+IdModule  = r_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F57F71;
+Reference = R2;
+ValeurCmp = 1K2;
+IdModule  = r_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F59550;
+Reference = R3;
+ValeurCmp = 1K;
+IdModule  = r_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F58A2E;
+Reference = R4;
+ValeurCmp = 10K;
+IdModule  = r_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F58A5B;
+Reference = SW1;
+ValeurCmp = SW_PUSH;
+IdModule  = smd_push;
+EndCmp
+
+EndListe
