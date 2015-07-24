@@ -1,0 +1,185 @@
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 7/24/2015 12:27:22 PM
+
+BeginCmp
+TimeStamp = /54F582A5;
+Reference = C1;
+ValeurCmp = 10uF/16V;
+IdModule  = c_tant_A;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F582B2;
+Reference = C2;
+ValeurCmp = 0.1uF;
+IdModule  = r_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F582CA;
+Reference = C3;
+ValeurCmp = 0.1uF;
+IdModule  = r_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F582D0;
+Reference = C4;
+ValeurCmp = 0.1uF;
+IdModule  = r_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F582D6;
+Reference = C5;
+ValeurCmp = 0.1uF;
+IdModule  = r_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F58E3A;
+Reference = C6;
+ValeurCmp = 0.1uF;
+IdModule  = r_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F58E34;
+Reference = C7;
+ValeurCmp = 0.1uF;
+IdModule  = r_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /55B1DCE2;
+Reference = C8;
+ValeurCmp = C;
+IdModule  = r_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /55B1DCEF;
+Reference = C9;
+ValeurCmp = C;
+IdModule  = r_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F581F6;
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = Led_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F59556;
+Reference = D2;
+ValeurCmp = PWR_LED;
+IdModule  = Led_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /55B0F887;
+Reference = IC1;
+ValeurCmp = PIC18F8722;
+IdModule  = microchip-2-TQFP80;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F59DF3;
+Reference = P1;
+ValeurCmp = PGM_CONN;
+IdModule  = SIL-5;
+EndCmp
+
+BeginCmp
+TimeStamp = /5502713C;
+Reference = P2;
+ValeurCmp = CONN _1_20;
+IdModule  = SIL-20;
+EndCmp
+
+BeginCmp
+TimeStamp = /55027C37;
+Reference = P3;
+ValeurCmp = CONN_21_40;
+IdModule  = SIL-20;
+EndCmp
+
+BeginCmp
+TimeStamp = /55027C3D;
+Reference = P4;
+ValeurCmp = CONN_41_60;
+IdModule  = SIL-20;
+EndCmp
+
+BeginCmp
+TimeStamp = /55027C43;
+Reference = P5;
+ValeurCmp = CONN_61_80;
+IdModule  = SIL-20;
+EndCmp
+
+BeginCmp
+TimeStamp = /55B1D07B;
+Reference = P6;
+ValeurCmp = CONN_2;
+IdModule  = SIL-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F807CB;
+Reference = P7;
+ValeurCmp = PWR_CON;
+IdModule  = mors_2p;
+EndCmp
+
+BeginCmp
+TimeStamp = /55B1D167;
+Reference = P8;
+ValeurCmp = CONN_2;
+IdModule  = SIL-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F58E22;
+Reference = P9;
+ValeurCmp = PWR_CON;
+IdModule  = mors_2p;
+EndCmp
+
+BeginCmp
+TimeStamp = /55B1E18E;
+Reference = P10;
+ValeurCmp = CONN_4;
+IdModule  = SIL-4;
+EndCmp
+
+BeginCmp
+TimeStamp = /55B1E19B;
+Reference = P11;
+ValeurCmp = CONN_4;
+IdModule  = SIL-4;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F57F71;
+Reference = R2;
+ValeurCmp = 1K2;
+IdModule  = r_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F59550;
+Reference = R3;
+ValeurCmp = 1K;
+IdModule  = r_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /55B1D847;
+Reference = X1;
+ValeurCmp = CRYSTAL;
+IdModule  = crystal_tc-38;
+EndCmp
+
+EndListe
